@@ -44,7 +44,7 @@
         {
           "name": "直播源",
           "urls": [
-            "https://raw.githubusercontent.com/deng540566242/tvbox/refs/heads/main/iptv.m3u?token=GHSAT0AAAAAADIBR4LST3UCBOVQW5AP4FVI2EFXLVQ"
+            "https://raw.githubusercontent.com/deng540566242/tvbox/refs/heads/main/iptv.m3u"
           ]
         }
       ]
